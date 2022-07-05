@@ -1,0 +1,44 @@
+#nav1{
+    background-color: #16686f55;
+    display: block;
+}
+
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  }
+
+  .navbar .container-fluid .navbar-nav{
+
+    margin-left: 300px;
+  }
+
+  .navbar .container-fluid .navbar-nav >a{
+
+    padding-left:30px;
+    padding-right:30px;
+  }
+  
+  #limit{
+    font-size:22px;
+    max-width: 500px;
+   text-align: center;
+   position:relative; right:430px;
+   
+  }
+
+  #img1{
+    
+    color:rgb(255, 255, 255);
+    padding: 11%;
+    margin-top: 5px;
+    background-image: url("https://p0.pikist.com/photos/790/249/background-copy-space-texture-blue-concept-activity-student-study-learning.jpg");
+    background-repeat: no-repeat;
+    background-position: 0cm;
+    
+    background-size: cover;
+  }
+
+  @media screen and (max-width: 991px) {
+    
+}
